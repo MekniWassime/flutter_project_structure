@@ -1,0 +1,1 @@
+Routes contain the three config files for the [fluro](https://pub.dev/packages/fluro) package, an example of the files is found [here](https://github.com/lukepighetti/fluro/tree/main/example/lib/config)

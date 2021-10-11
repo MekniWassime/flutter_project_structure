@@ -1,0 +1,1 @@
+splash screen is used to initialize all our services before starting our main app, especially services that are initialized using async methods which is the case for most services that communicate with either rest or native APIs

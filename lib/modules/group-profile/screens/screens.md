@@ -1,0 +1,1 @@
+each dart file is a widget that represents a screen, routers let us navigate between said screens

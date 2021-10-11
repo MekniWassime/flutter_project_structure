@@ -1,0 +1,1 @@
+Themes folder contains .dart files that define the properties of different themes such as dark/light themes etc
