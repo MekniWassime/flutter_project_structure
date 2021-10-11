@@ -1,0 +1,1 @@
+assets folder contains all the media files that our app needs like images and fonts or audio files 
